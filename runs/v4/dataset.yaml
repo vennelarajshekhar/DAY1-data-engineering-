@@ -1,0 +1,7 @@
+path: C:/Users/Vennela/OneDrive/Desktop/learning/runs/v4
+train: train.txt
+val: val.txt
+names:
+  0: passive
+  1: active
+trainable_ids: [1, 2, 5, 8]
